@@ -1,0 +1,47 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "analytics",
+   "children": [
+    {
+     "name": "cluster",
+     "children": [
+      {"name": "Doves", "size": 842},
+      {"name": "Crystle", "size": 1812},
+      {"name": "Stars", "size": 13010}
+     ]
+    },
+    {
+     "name": "optimization",
+     "children": [
+      {"name": "Gold", "size": 19975}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "animate",
+   "children": [
+    {"name": "Moon", "size": 6714},
+    {"name": "Sun", "size": 5842},
+    {
+     "name": "interpolate",
+     "children": [
+      {"name": "Ewes", "size": 383},
+      {"name": "Fawns", "size": 382},
+      {"name": "Snow", "size": 1375},
+      {"name": "Garden", "size": 2746},
+      {"name": "Thread", "size": 382},
+      {"name": "Pearls", "size": 382},
+      {"name": "Roses", "size": 9629},
+      {"name": "Tower", "size": 382},
+      {"name": "Charm", "size": 5042},
+      {"name": "Candle", "size": 842},
+      {"name": "Ebony", "size": 382}
+     ]
+    }
+   ]
+  }
+ ]
+}
