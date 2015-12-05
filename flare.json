@@ -7,15 +7,18 @@
     {
      "name": "cluster",
      "children": [
-      {"name": "Doves", "size": 842},
-      {"name": "Crystle", "size": 1812},
-      {"name": "Stars", "size": 13010}
+      {"name": "Doves", "size": 1042},
+      {"name": "Crystle", "size": 2084},
+      {"name": "Stars", "size": 3126}
      ]
     },
     {
      "name": "optimization",
      "children": [
-      {"name": "Gold", "size": 19975}
+      {"name": "Gold", "size": 3126},
+      {"name": "Ewes", "size": 1042},
+      {"name": "Fawns", "size": 1042},
+      {"name": "Ebony", "size": 1042}
      ]
     }
    ]
@@ -23,22 +26,19 @@
   {
    "name": "animate",
    "children": [
-    {"name": "Moon", "size": 6714},
-    {"name": "Sun", "size": 5842},
+    {"name": "Moon", "size": 1042},
+    {"name": "Sun", "size": 1042},
+    {"name": "Charm", "size": 1042},
+    {"name": "Monopoly Shoe", "size": 1042},
+    {"name": "Candle", "size": 1042},
+    {"name": "Garden", "size": 2084},
+    {"name": "Roses", "size": 2084},
     {
      "name": "interpolate",
      "children": [
-      {"name": "Ewes", "size": 383},
-      {"name": "Fawns", "size": 382},
-      {"name": "Snow", "size": 1375},
-      {"name": "Garden", "size": 2746},
-      {"name": "Thread", "size": 382},
-      {"name": "Pearls", "size": 382},
-      {"name": "Roses", "size": 9629},
-      {"name": "Tower", "size": 382},
-      {"name": "Charm", "size": 5042},
-      {"name": "Candle", "size": 842},
-      {"name": "Ebony", "size": 382}
+      {"name": "Snow", "size": 1042},
+      {"name": "Thread", "size": 1042},
+      {"name": "Pearls", "size": 1042}
      ]
     }
    ]
