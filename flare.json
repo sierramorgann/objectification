@@ -27,6 +27,7 @@
    "name": "animate",
    "children": [
     {"name": "Moon", "size": 1042},
+    {"name": "Raven", "size": 1042},
     {"name": "Sun", "size": 1042},
     {"name": "Charm", "size": 1042},
     {"name": "Monopoly Shoe", "size": 1042},
