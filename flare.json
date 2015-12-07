@@ -7,7 +7,6 @@
     {
      "name": "cluster",
      "children": [
-      {"name": "Doves", "size": 1042},
       {"name": "Crystle", "size": 2084},
       {"name": "Stars", "size": 3126}
      ]
